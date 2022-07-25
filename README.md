@@ -9,4 +9,4 @@ Some key points:
 
 Paper information: J. of Biomedical Optics, 26(4), 046001 (2021). https://doi.org/10.1117/1.JBO.26.4.046001
 
-Please reach out to Rashid Al Mukaddim at mukaddim@wisc.edu for any question
+Please reach out to Rashid Al Mukaddim at rashid102405@gmail.com for any question
